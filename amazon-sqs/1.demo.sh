@@ -1,0 +1,1 @@
+A fully managed message queue service from AWS
