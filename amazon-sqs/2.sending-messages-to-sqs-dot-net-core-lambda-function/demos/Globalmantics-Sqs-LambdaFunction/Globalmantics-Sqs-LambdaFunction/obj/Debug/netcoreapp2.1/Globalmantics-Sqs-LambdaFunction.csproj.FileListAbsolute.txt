@@ -1,0 +1,10 @@
+C:\Pluralsight-Sqs\Module 5\Globalmantics-Sqs-LambdaFunction\Globalmantics-Sqs-LambdaFunction\bin\Debug\netcoreapp2.1\Globalmantics-Sqs-LambdaFunction.deps.json
+C:\Pluralsight-Sqs\Module 5\Globalmantics-Sqs-LambdaFunction\Globalmantics-Sqs-LambdaFunction\bin\Debug\netcoreapp2.1\Globalmantics-Sqs-LambdaFunction.runtimeconfig.json
+C:\Pluralsight-Sqs\Module 5\Globalmantics-Sqs-LambdaFunction\Globalmantics-Sqs-LambdaFunction\bin\Debug\netcoreapp2.1\Globalmantics-Sqs-LambdaFunction.runtimeconfig.dev.json
+C:\Pluralsight-Sqs\Module 5\Globalmantics-Sqs-LambdaFunction\Globalmantics-Sqs-LambdaFunction\bin\Debug\netcoreapp2.1\Globalmantics-Sqs-LambdaFunction.dll
+C:\Pluralsight-Sqs\Module 5\Globalmantics-Sqs-LambdaFunction\Globalmantics-Sqs-LambdaFunction\bin\Debug\netcoreapp2.1\Globalmantics-Sqs-LambdaFunction.pdb
+C:\Pluralsight-Sqs\Module 5\Globalmantics-Sqs-LambdaFunction\Globalmantics-Sqs-LambdaFunction\obj\Debug\netcoreapp2.1\Globalmantics-Sqs-LambdaFunction.csprojAssemblyReference.cache
+C:\Pluralsight-Sqs\Module 5\Globalmantics-Sqs-LambdaFunction\Globalmantics-Sqs-LambdaFunction\obj\Debug\netcoreapp2.1\Globalmantics-Sqs-LambdaFunction.AssemblyInfoInputs.cache
+C:\Pluralsight-Sqs\Module 5\Globalmantics-Sqs-LambdaFunction\Globalmantics-Sqs-LambdaFunction\obj\Debug\netcoreapp2.1\Globalmantics-Sqs-LambdaFunction.AssemblyInfo.cs
+C:\Pluralsight-Sqs\Module 5\Globalmantics-Sqs-LambdaFunction\Globalmantics-Sqs-LambdaFunction\obj\Debug\netcoreapp2.1\Globalmantics-Sqs-LambdaFunction.dll
+C:\Pluralsight-Sqs\Module 5\Globalmantics-Sqs-LambdaFunction\Globalmantics-Sqs-LambdaFunction\obj\Debug\netcoreapp2.1\Globalmantics-Sqs-LambdaFunction.pdb
