@@ -1,0 +1,323 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: "CloudNotes SNS"
+Resources:
+    CloudNotesEventsTopic:
+        Type: "AWS::SNS::Topic"
+        Properties:
+            DisplayName: "CLOUDNOTES"
+            TopicName: "CloudNotesEvents"
+            Tags: 
+              - 
+                Key: "Application"
+                Value: "CloudNotes"
+
+    DynamoDBSNSTopic:
+        Type: "AWS::SNS::Topic"
+        Properties:
+            DisplayName: ""
+            TopicName: "dynamodb"
+
+    CloudTrailSNSTopic:
+        Type: "AWS::SNS::Topic"
+        Properties:
+            DisplayName: ""
+            TopicName: "CloudTrailEvents"
+
+    DynamoDBTable:
+        Type: "AWS::DynamoDB::Table"
+        Properties:
+            AttributeDefinitions: 
+              - 
+                AttributeName: "NoteID_DateCreated"
+                AttributeType: "S"
+              - 
+                AttributeName: "UserId"
+                AttributeType: "S"
+            TableName: !GetAtt CloudNotesEventsTopic.TopicName
+            KeySchema: 
+              - 
+                AttributeName: "UserId"
+                KeyType: "HASH"
+              - 
+                AttributeName: "NoteID_DateCreated"
+                KeyType: "RANGE"
+            ProvisionedThroughput: 
+                ReadCapacityUnits: 5
+                WriteCapacityUnits: 5
+
+    CloudNotesEventsTopicPolicy:
+        Type: "AWS::SNS::TopicPolicy"
+        Properties:
+            PolicyDocument: !Sub "{\"Version\":\"2008-10-17\",\"Id\":\"__default_policy_ID\",\"Statement\":[{\"Sid\":\"__default_statement_ID\",\"Effect\":\"Allow\",\"Principal\":{\"AWS\":\"*\"},\"Action\":[\"SNS:GetTopicAttributes\",\"SNS:SetTopicAttributes\",\"SNS:AddPermission\",\"SNS:RemovePermission\",\"SNS:DeleteTopic\",\"SNS:Subscribe\",\"SNS:ListSubscriptionsByTopic\",\"SNS:Publish\",\"SNS:Receive\"],\"Resource\":\"${CloudNotesEventsTopic}\",\"Condition\":{\"StringEquals\":{\"AWS:SourceOwner\":\"${AWS::AccountId}\"}}},{\"Sid\":\"publish-from-s3\",\"Effect\":\"Allow\",\"Principal\":{\"AWS\":\"*\"},\"Action\":\"SNS:Publish\",\"Resource\":\"${CloudNotesEventsTopic}\",\"Condition\":{\"ArnLike\":{\"aws:SourceArn\":\"arn:aws:s3:*:*:cloudnotes-storage\"}}}]}"
+            Topics: 
+              - !Ref CloudNotesEventsTopic
+
+    DynamoDBSNSTopicPolicy:
+        Type: "AWS::SNS::TopicPolicy"
+        Properties:
+            PolicyDocument: !Sub "{\"Version\":\"2008-10-17\",\"Id\":\"__default_policy_ID\",\"Statement\":[{\"Sid\":\"__default_statement_ID\",\"Effect\":\"Allow\",\"Principal\":{\"AWS\":\"*\"},\"Action\":[\"SNS:GetTopicAttributes\",\"SNS:SetTopicAttributes\",\"SNS:AddPermission\",\"SNS:RemovePermission\",\"SNS:DeleteTopic\",\"SNS:Subscribe\",\"SNS:ListSubscriptionsByTopic\",\"SNS:Publish\",\"SNS:Receive\"],\"Resource\":\"${DynamoDBSNSTopic}\",\"Condition\":{\"StringEquals\":{\"AWS:SourceOwner\":\"${AWS::AccountId}\"}}}]}"
+            Topics: 
+              - !Ref DynamoDBSNSTopic
+
+    CloudTrailSNSTopicPolicy:
+        Type: "AWS::SNS::TopicPolicy"
+        Properties:
+            PolicyDocument: !Sub "{\"Version\":\"2008-10-17\",\"Id\":\"__default_policy_ID\",\"Statement\":[{\"Sid\":\"__default_statement_ID\",\"Effect\":\"Allow\",\"Principal\":{\"AWS\":\"*\"},\"Action\":[\"SNS:GetTopicAttributes\",\"SNS:SetTopicAttributes\",\"SNS:AddPermission\",\"SNS:RemovePermission\",\"SNS:DeleteTopic\",\"SNS:Subscribe\",\"SNS:ListSubscriptionsByTopic\",\"SNS:Publish\",\"SNS:Receive\"],\"Resource\":\"${CloudTrailSNSTopic}\",\"Condition\":{\"StringEquals\":{\"AWS:SourceOwner\":\"${AWS::AccountId}\"}}},{\"Sid\":\"publish-from-s3\",\"Effect\":\"Allow\",\"Principal\":{\"AWS\":\"*\"},\"Action\":\"SNS:Publish\",\"Resource\":\"${CloudTrailSNSTopic}\",\"Condition\":{\"ArnLike\":{\"aws:SourceArn\":\"arn:aws:s3:*:*:cloudnotes-trail\"}}}]}"
+            Topics: 
+              - !Ref CloudTrailSNSTopic
+
+    SNSJsonEmailSubscription:
+        Type: "AWS::SNS::Subscription"
+        Properties:
+            TopicArn: !Ref CloudNotesEventsTopic
+            Endpoint: "your-email@your-domain.com"
+            Protocol: "email-json"
+            Region: !Ref AWS::Region
+
+    SNSHttpsSubscription:
+        Type: "AWS::SNS::Subscription"
+        Properties:
+            TopicArn: !Ref CloudNotesEventsTopic
+            Endpoint: "https://your-domain/your-endpoint"
+            Protocol: "https"
+            RawMessageDelivery: "false"
+            Region: !Ref AWS::Region
+            RedrivePolicy: !Sub "{\"deadLetterTargetArn\":\"arn:aws:sqs:${AWS::Region}:${AWS::AccountId}:${CloudNotesEventsTopic.TopicName}-Errors\"}"
+
+    SNSEmailSubscription:
+        Type: "AWS::SNS::Subscription"
+        Properties:
+            TopicArn: !Ref CloudNotesEventsTopic
+            Endpoint: "your-email@your-domain.com"
+            Protocol: "email"
+            Region: !Ref AWS::Region
+
+    SNSSQSSubscription:
+        Type: "AWS::SNS::Subscription"
+        Properties:
+            TopicArn: !Ref CloudNotesEventsTopic
+            FilterPolicy: |
+                {
+                    "Publisher": [{"exists": true}]
+                }
+                
+            Endpoint: !Sub "arn:aws:sqs:${AWS::Region}:${AWS::AccountId}:${CloudNotesEventsTopic.TopicName}"
+            Protocol: "sqs"
+            RawMessageDelivery: "true"
+            Region: !Ref AWS::Region
+
+    SNSLambdaSubscription:
+        Type: "AWS::SNS::Subscription"
+        Properties:
+            TopicArn: !Ref CloudNotesEventsTopic
+            Endpoint: !Sub "arn:aws:lambda:${AWS::Region}:${AWS::AccountId}:function:${CloudNotesEventsTopic.TopicName}"
+            Protocol: "lambda"
+            Region: !Ref AWS::Region
+
+    CloudNotesEventsSQSQueue:
+        Type: "AWS::SQS::Queue"
+        Properties:
+            DelaySeconds: "0"
+            MaximumMessageSize: "262144"
+            MessageRetentionPeriod: "345600"
+            ReceiveMessageWaitTimeSeconds: "0"
+            VisibilityTimeout: "30"
+            QueueName: !GetAtt CloudNotesEventsTopic.TopicName
+
+    CloudNotesEventsErrorSQSQueue:
+        Type: "AWS::SQS::Queue"
+        Properties:
+            DelaySeconds: "0"
+            MaximumMessageSize: "262144"
+            MessageRetentionPeriod: "345600"
+            ReceiveMessageWaitTimeSeconds: "0"
+            VisibilityTimeout: "30"
+            QueueName: !Sub "${CloudNotesEventsTopic.TopicName}-Errors"
+
+    CloudNotesEventsSQSQueuePolicy:
+        Type: "AWS::SQS::QueuePolicy"
+        Properties:
+            PolicyDocument: !Sub "{\"Version\":\"2012-10-17\",\"Id\":\"arn:aws:sqs:${AWS::Region}:${AWS::AccountId}:${CloudNotesEventsTopic.TopicName}/SQSDefaultPolicy\",\"Statement\":[{\"Sid\":\"Sid1586699646465\",\"Effect\":\"Allow\",\"Principal\":\"*\",\"Action\":\"SQS:SendMessage\",\"Resource\":\"arn:aws:sqs:${AWS::Region}:${AWS::AccountId}:${CloudNotesEventsTopic.TopicName}\",\"Condition\":{\"StringEquals\":{\"aws:SourceArn\":\"${SNSTopic}\"}}}]}"
+            Queues: 
+              - !Sub "https://sqs.${AWS::Region}.amazonaws.com/${AWS::AccountId}/${CloudNotesEventsTopic.TopicName}"
+
+    CloudNotesEventsErrorSQSQueuePolicy:
+        Type: "AWS::SQS::QueuePolicy"
+        Properties:
+            PolicyDocument: !Sub "{\"Version\":\"2012-10-17\",\"Id\":\"arn:aws:sqs:${AWS::Region}:${AWS::AccountId}:${CloudNotesEventsTopic.TopicName}-Errors/SQSDefaultPolicy\",\"Statement\":[{\"Sid\":\"Sid1586779106943\",\"Effect\":\"Allow\",\"Principal\":\"*\",\"Action\":\"SQS:SendMessage\",\"Resource\":\"arn:aws:sqs:${AWS::Region}:${AWS::AccountId}:${CloudNotesEventsTopic.TopicName}-Errors\",\"Condition\":{\"StringEquals\":{\"aws:SourceArn\":\"${CloudNotesEventsTopic}\"}}}]}"
+            Queues: 
+              - !Sub "https://sqs.${AWS::Region}.amazonaws.com/${AWS::AccountId}/${CloudNotesEventsTopic.TopicName}-Errors"
+
+    KMSKey:
+        Type: "AWS::KMS::Key"
+        Properties:
+            Enabled: true
+            Description: "Custom encryption key for use with SNS"
+            KeyUsage: "ENCRYPT_DECRYPT"
+
+    IAMUser:
+        Type: "AWS::IAM::User"
+        Properties:
+            Path: "/"
+            UserName: "cloudnotes"
+            Groups: 
+              - "Admins"
+
+    IAMRole:
+        Type: "AWS::IAM::Role"
+        Properties:
+            Path: "/"
+            RoleName: "SNSSuccessFeedback"
+            AssumeRolePolicyDocument: "{\"Version\":\"2012-10-17\",\"Statement\":[{\"Effect\":\"Allow\",\"Principal\":{\"Service\":\"sns.amazonaws.com\"},\"Action\":\"sts:AssumeRole\"}]}"
+            MaxSessionDuration: 3600
+
+    IAMRole2:
+        Type: "AWS::IAM::Role"
+        Properties:
+            Path: "/"
+            RoleName: "SNSFailureFeedback"
+            AssumeRolePolicyDocument: "{\"Version\":\"2012-10-17\",\"Statement\":[{\"Effect\":\"Allow\",\"Principal\":{\"Service\":\"sns.amazonaws.com\"},\"Action\":\"sts:AssumeRole\"}]}"
+            MaxSessionDuration: 3600
+
+    IAMPolicy:
+        Type: "AWS::IAM::Policy"
+        Properties:
+            PolicyDocument: |
+                {
+                  "Version": "2012-10-17",
+                  "Statement": [
+                    {
+                      "Effect": "Allow",
+                      "Action": [
+                        "logs:CreateLogGroup",
+                        "logs:CreateLogStream",
+                        "logs:PutLogEvents",
+                        "logs:PutMetricFilter",
+                        "logs:PutRetentionPolicy"
+                      ],
+                      "Resource": [
+                        "*"
+                      ]
+                    }
+                  ]
+                }
+            Roles: 
+              - !Ref IAMRole
+            PolicyName: !Sub "oneClick_${IAMRole}_1583801422080"
+
+    IAMPolicy2:
+        Type: "AWS::IAM::Policy"
+        Properties:
+            PolicyDocument: |
+                {
+                  "Version": "2012-10-17",
+                  "Statement": [
+                    {
+                      "Effect": "Allow",
+                      "Action": [
+                        "logs:CreateLogGroup",
+                        "logs:CreateLogStream",
+                        "logs:PutLogEvents",
+                        "logs:PutMetricFilter",
+                        "logs:PutRetentionPolicy"
+                      ],
+                      "Resource": [
+                        "*"
+                      ]
+                    }
+                  ]
+                }
+            Roles: 
+              - !Ref IAMRole2
+            PolicyName: !Sub "oneClick_${IAMRole2}_1583585856085"
+
+    IAMPolicy3:
+        Type: "AWS::IAM::Policy"
+        Properties:
+            PolicyDocument: |
+                {
+                  "Version": "2012-10-17",
+                  "Statement": [
+                    {
+                      "Effect": "Allow",
+                      "Action": [
+                        "logs:CreateLogGroup",
+                        "logs:CreateLogStream",
+                        "logs:PutLogEvents",
+                        "logs:PutMetricFilter",
+                        "logs:PutRetentionPolicy"
+                      ],
+                      "Resource": [
+                        "*"
+                      ]
+                    }
+                  ]
+                }
+            Roles: 
+              - !Ref IAMRole2
+            PolicyName: !Sub "oneClick_${IAMRole2}_1583801422082"
+
+    IAMPolicy4:
+        Type: "AWS::IAM::Policy"
+        Properties:
+            PolicyDocument: |
+                {
+                  "Version": "2012-10-17",
+                  "Statement": [
+                    {
+                      "Effect": "Allow",
+                      "Action": [
+                        "logs:CreateLogGroup",
+                        "logs:CreateLogStream",
+                        "logs:PutLogEvents",
+                        "logs:PutMetricFilter",
+                        "logs:PutRetentionPolicy"
+                      ],
+                      "Resource": [
+                        "*"
+                      ]
+                    }
+                  ]
+                }
+            Roles: 
+              - !Ref IAMRole
+            PolicyName: !Sub "oneClick_${IAMRole}_1583585856084"
+
+    CloudTrailTrail:
+        Type: "AWS::CloudTrail::Trail"
+        Properties:
+            TrailName: "CloudNotes"
+            S3BucketName: "cloudnotes-trail"
+            IncludeGlobalServiceEvents: true
+            IsMultiRegionTrail: true
+            EnableLogFileValidation: true
+
+    S3Bucket:
+        Type: "AWS::S3::Bucket"
+        Properties:
+            BucketName: "cloudnotes-storage"
+            BucketEncryption: 
+                ServerSideEncryptionConfiguration: 
+                  - 
+                    ServerSideEncryptionByDefault: 
+                        SSEAlgorithm: "AES256"
+
+    S3Bucket:
+        Type: "AWS::S3::Bucket"
+        Properties:
+            BucketName: "cloudnotes-sms-reports"
+            BucketEncryption: 
+                ServerSideEncryptionConfiguration: 
+                  - 
+                    ServerSideEncryptionByDefault: 
+                        SSEAlgorithm: "AES256"
+						
+    S3Bucket:
+        Type: "AWS::S3::Bucket"
+        Properties:
+            BucketName: "cloudnotes-trail"
+            BucketEncryption: 
+                ServerSideEncryptionConfiguration: 
+                  - 
+                    ServerSideEncryptionByDefault: 
+                        SSEAlgorithm: "AES256"

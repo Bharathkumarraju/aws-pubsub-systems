@@ -1,0 +1,17 @@
+﻿{
+  "http": {
+    "defaultHealthyRetryPolicy": {
+      "minDelayTarget": 10,
+      "maxDelayTarget": 60,
+      "numRetries": 50,
+      "numMaxDelayRetries": 36,
+      "numNoDelayRetries": 2,
+      "numMinDelayRetries": 2,
+      "backoffFunction": "exponential"
+    },
+    "disableSubscriptionOverrides": false,
+    "defaultThrottlePolicy": {
+      "maxReceivesPerSecond": 1000
+    }
+  }
+}

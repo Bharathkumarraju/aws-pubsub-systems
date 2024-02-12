@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudNotes", "CloudNotes\CloudNotes.csproj", "{404AFC3C-88C6-4EC1-8C74-CB2B834EA57B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cloudformation", "Cloudformation", "{FBEF0381-9144-441E-A80E-AFFE2B05E96A}"
+	ProjectSection(SolutionItems) = preProject
+		Cloudformation\resources.yml = Cloudformation\resources.yml
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SNSTopicConfigurator", "SNSTopicConfigurator\SNSTopicConfigurator.csproj", "{77B276CA-CBC9-4FC1-8031-AE9E405CAD44}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudNotes.SQSEventProcessor", "CloudNotes.SQSEventProcessor\CloudNotes.SQSEventProcessor.csproj", "{5F7997C6-98BD-4905-9C3C-0B35FC28A1B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudNotes.LambdaEventProcessor", "CloudNotes.LambdaEventProcessor\CloudNotes.LambdaEventProcessor.csproj", "{995EFBBD-932D-4CD1-B286-AF0A0636FA05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudNotes.AndroidApp", "CloudNotes.AndroidApp\CloudNotes.AndroidApp.csproj", "{35B6ECD2-39CC-476F-BC71-8ACE1DEAD715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404AFC3C-88C6-4EC1-8C74-CB2B834EA57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404AFC3C-88C6-4EC1-8C74-CB2B834EA57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404AFC3C-88C6-4EC1-8C74-CB2B834EA57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404AFC3C-88C6-4EC1-8C74-CB2B834EA57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77B276CA-CBC9-4FC1-8031-AE9E405CAD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B276CA-CBC9-4FC1-8031-AE9E405CAD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B276CA-CBC9-4FC1-8031-AE9E405CAD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B276CA-CBC9-4FC1-8031-AE9E405CAD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7997C6-98BD-4905-9C3C-0B35FC28A1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7997C6-98BD-4905-9C3C-0B35FC28A1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7997C6-98BD-4905-9C3C-0B35FC28A1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7997C6-98BD-4905-9C3C-0B35FC28A1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995EFBBD-932D-4CD1-B286-AF0A0636FA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995EFBBD-932D-4CD1-B286-AF0A0636FA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995EFBBD-932D-4CD1-B286-AF0A0636FA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995EFBBD-932D-4CD1-B286-AF0A0636FA05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B6ECD2-39CC-476F-BC71-8ACE1DEAD715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B6ECD2-39CC-476F-BC71-8ACE1DEAD715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B6ECD2-39CC-476F-BC71-8ACE1DEAD715}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{35B6ECD2-39CC-476F-BC71-8ACE1DEAD715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B6ECD2-39CC-476F-BC71-8ACE1DEAD715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B6ECD2-39CC-476F-BC71-8ACE1DEAD715}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EC9CE41-16EE-4009-BC44-9FF4B9B6E190}
+	EndGlobalSection
+EndGlobal
