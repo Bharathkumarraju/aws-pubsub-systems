@@ -6583,19 +6583,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/bharathkumardasaraju/.nuget/packages/": {}
+    "/Users/bharathdasaraju/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/Globomantics.Api.csproj",
+      "projectUniqueName": "/Users/bharathdasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/Globomantics.Api.csproj",
       "projectName": "Globomantics.Api",
-      "projectPath": "/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/Globomantics.Api.csproj",
-      "packagesPath": "/Users/bharathkumardasaraju/.nuget/packages/",
-      "outputPath": "/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/",
+      "projectPath": "/Users/bharathdasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/Globomantics.Api.csproj",
+      "packagesPath": "/Users/bharathdasaraju/.nuget/packages/",
+      "outputPath": "/Users/bharathdasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/bharathkumardasaraju/.nuget/NuGet/NuGet.Config"
+        "/Users/bharathdasaraju/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6652,20 +6652,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.osx-x64",
-            "version": "[3.1.32, 3.1.32]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

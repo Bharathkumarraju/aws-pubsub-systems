@@ -21,7 +21,6 @@ namespace Globomantics.Api.Services
                 QueueUrl = "https://sqs.us-east-1.amazonaws.com/172586632398/TicketRequest",
                 MessageBody = request.Serialize(request)
             };
-
             var sendMessageResponse = await _sqsClient.SendMessageAsync(sendMessageRequest);
 
             return sendMessageResponse;

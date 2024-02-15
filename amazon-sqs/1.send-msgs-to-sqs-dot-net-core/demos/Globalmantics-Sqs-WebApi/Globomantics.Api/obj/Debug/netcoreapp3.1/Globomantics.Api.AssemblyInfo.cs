@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Globomantics.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ce703fac27a36b3502ce6469c5287c7c4d7705c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e68acd12d7074dc7eb6d0fcfca57f85283c09d92")]
 [assembly: System.Reflection.AssemblyProductAttribute("Globomantics.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Globomantics.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

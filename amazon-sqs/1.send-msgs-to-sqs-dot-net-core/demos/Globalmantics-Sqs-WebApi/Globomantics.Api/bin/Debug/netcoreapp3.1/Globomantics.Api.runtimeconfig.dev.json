@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/bharathkumardasaraju/.dotnet/store/|arch|/|tfm|",
-      "/Users/bharathkumardasaraju/.nuget/packages"
+      "/Users/bharathdasaraju/.dotnet/store/|arch|/|tfm|",
+      "/Users/bharathdasaraju/.nuget/packages"
     ]
   }
 }
