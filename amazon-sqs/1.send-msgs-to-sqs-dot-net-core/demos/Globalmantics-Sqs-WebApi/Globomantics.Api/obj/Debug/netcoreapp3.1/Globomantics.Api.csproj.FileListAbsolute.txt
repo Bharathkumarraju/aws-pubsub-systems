@@ -1,0 +1,198 @@
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Globomantics.Api.exe
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.csprojAssemblyReference.cache
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/obj/Debug/netcoreapp3.1/staticwebassets/Globomantics.Api.StaticWebAssets.Manifest.cache
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/obj/Debug/netcoreapp3.1/staticwebassets/Globomantics.Api.StaticWebAssets.xml
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.AssemblyInfoInputs.cache
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.AssemblyInfo.cs
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.RazorTargetAssemblyInfo.cache
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.csproj.CopyComplete
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Globomantics.Api.deps.json
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Globomantics.Api.runtimeconfig.json
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Globomantics.Api.runtimeconfig.dev.json
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Globomantics.Api.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/Globomantics.Api.pdb
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.pdb
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/AWSSDK.Core.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/AWSSDK.Extensions.NETCore.Setup.dll
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Pluralsight-Sqs/Module 4/Globalmantics-Sqs-WebApi-Play/Globomantics-sqs-WebApi-Play/Globomantics.Api/bin/Debug/netcoreapp3.1/AWSSDK.SQS.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Globomantics.Api.StaticWebAssets.xml
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Globomantics.Api
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Globomantics.Api.deps.json
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Globomantics.Api.runtimeconfig.json
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Globomantics.Api.runtimeconfig.dev.json
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Globomantics.Api.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Globomantics.Api.pdb
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/AWSSDK.Core.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/AWSSDK.Extensions.NETCore.Setup.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/AWSSDK.SQS.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.csproj.AssemblyReference.cache
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.AssemblyInfoInputs.cache
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.AssemblyInfo.cs
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.csproj.CoreCompileInputs.cache
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.sourcelink.json
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.RazorTargetAssemblyInfo.cache
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/staticwebassets/Globomantics.Api.StaticWebAssets.Manifest.cache
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/staticwebassets/Globomantics.Api.StaticWebAssets.Pack.cache
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.Globomantics.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.Globomantics.Api.props
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.Globomantics.Api.props
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.Globomantics.Api.props
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.dll
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.pdb
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/Globomantics.Api.genruntimeconfig.cache
+/Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/obj/Debug/netcoreapp3.1/Globoman.5B895C9B.Up2Date

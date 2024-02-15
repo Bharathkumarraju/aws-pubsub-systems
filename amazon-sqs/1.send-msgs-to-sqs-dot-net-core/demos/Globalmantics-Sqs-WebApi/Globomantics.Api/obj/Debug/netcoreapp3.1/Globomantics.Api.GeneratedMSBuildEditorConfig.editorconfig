@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Globomantics.Api
+build_property.ProjectDir = /Users/bharathkumardasaraju/git/aws-pubsub-systems/amazon-sqs/1.send-msgs-to-sqs-dot-net-core/demos/Globalmantics-Sqs-WebApi/Globomantics.Api/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
