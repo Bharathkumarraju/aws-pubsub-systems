@@ -15,7 +15,7 @@
     "function-timeout"     : 30,
     "function-handler"     : "Globalmantics-Sqs-LambdaFunction::Globalmantics_Sqs_LambdaFunction.Function::FunctionHandler",
     "function-name"        : "Globomantics-lambda-function",
-    "function-role"        : "arn:aws:iam::117937980928:role/Lambda-Function-Read",
+    "function-role"        : "arn:aws:iam::172586632398:role/sqs-lambda-function-test",
     "tracing-mode"         : "PassThrough",
     "environment-variables" : ""
 }
